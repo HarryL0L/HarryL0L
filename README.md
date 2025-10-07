@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Harry!
 
-### A brief, fun line about yourself (e.g., A developer who loves solving complex problems with elegant code.)
+
 
 ---
 
