@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Name of current main project or technology you're learning]**.
+- 🔭 I’m currently working on **[KDE Plasma 6 for Termux]**.
 - 
 - 💬 Ask me about **kde plasma on termux(native)**
 - 📫 How to reach me: **[discord]** or connect with me on **[reddit]**.
