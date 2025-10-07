@@ -7,27 +7,13 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[Name of current main project or technology you're learning]**.
-- 🌱 I’m currently learning **[Specific language, framework, or skill]**.
-- 👯 I’m looking to collaborate on **[Type of project, e.g., open-source tools, educational materials]**.
-- 💬 Ask me about **[Topics you're knowledgeable or passionate about, e.g., Python, web security, game development]**.
-- 📫 How to reach me: **[Your preferred contact method, e.g., your-email@example.com]** or connect with me on **[Link to your LinkedIn or Twitter]**.
-- ⚡ Fun fact: **[A personal, interesting fact, e.g., I can solve a Rubik's cube in under a minute.]**
+- 
+- 💬 Ask me about **kde plasma on termux(native)**
+- 📫 How to reach me: **[discord]** or connect with me on **[reddit]**.
+- ⚡ Fun fact: **[I find fun in solving very difficult projects]**
 
 ---
 
-## 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, C++, Java, etc. |
-| **Frontend** | React, Vue.js, HTML5, CSS3, etc. |
-| **Backend** | Node.js, Django, Flask, Spring, etc. |
-| **Databases** | PostgreSQL, MongoDB, MySQL, etc. |
-| **Tools/DevOps** | Git, Docker, Kubernetes, AWS, etc. |
-
-*Replace the examples above with your actual skills.*
-
----
 
 ## 🔥 My GitHub Stats
 
@@ -49,10 +35,3 @@
 
 ## 🌟 Featured Projects
 
-| Project Name | Description | Tech Used |
-| :--- | :--- | :--- |
-| **[Project 1 Title]** | *A short explanation of what the project does.* | `[Tech 1]` `[Tech 2]` |
-| **[Project 2 Title]** | *Describe a cool feature or problem it solves.* | `[Tech 3]` `[Tech 4]` |
-| **[Project 3 Title]** | *Why you built it, or what you learned.* | `[Tech 5]` `[Tech 6]` |
-
-*Make sure to link the project titles to their respective repositories!*
