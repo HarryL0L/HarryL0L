@@ -1,21 +1,6 @@
 # Hi there 👋, I'm Harry!
 
 
-
----
-
-## 🚀 About Me (it’s 2AM and everything is broken)
-- 🧪 This account is where ideas come to live, break, cry, and respawn.
-- 🌙 Most of my work happens at night.
-Productivity: 2% — Googling “why this error???”: 98%.
-- 🔭 I’m “working” on KDE Plasma 6 for Termux: I break it → fix it → break it harder.
-- Certified “I’ll just try one more thing” specialist.
-- 💬 Ask me about KDE on Termux — I may answer, or accidentally discover 5 new bugs first.
-- 📫 Discord / Reddit — where I post, panic, and pretend everything is fine.
-
----
-
-
 ## 🔥 My GitHub Stats
 
 <div align="center">
@@ -33,6 +18,4 @@ Productivity: 2% — Googling “why this error???”: 98%.
 </div>
 
 ---
-
-## 🌟 Featured Projects
 
