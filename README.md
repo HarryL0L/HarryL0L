@@ -14,7 +14,6 @@
 
 ---
 
-## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarryL0L&color=blue" />
