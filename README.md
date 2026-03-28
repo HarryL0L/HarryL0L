@@ -1,14 +1,16 @@
 # Hi there 👋, I'm Harry!
 
-## 🔥 GitHub Stats
+## 📊 Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryL0L&show_icons=true&theme=dark&cache_seconds=86400" />
+  <a href="https://github.com/HarryL0L">
+    <img src="https://img.shields.io/badge/GitHub-HarryL0L-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryL0L&layout=compact&theme=dark&cache_seconds=86400" />
-</p>
+---
+
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarryL0L&color=blue" />
