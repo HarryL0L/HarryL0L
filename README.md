@@ -1,21 +1,17 @@
 # Hi there 👋, I'm Harry!
 
-
 ## 🔥 My GitHub Stats
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=HarryL0L&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Harry's GitHub Stats" style="max-width: 100%;"/>
-    </a>
-    <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryL0L&layout=compact&theme=dark" alt="Harry's Top Languages" style="max-width: 100%;"/>
-    </a>
-    <br/>
-    <a href="https://github.com/HarryL0L">
-        <img src="https://komarev.com/ghpvc/?username=HarryL0L&color=blue" alt="Profile views" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryL0L&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryL0L&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarryL0L&color=blue" />
+</p>
 
 ---
-
