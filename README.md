@@ -10,9 +10,7 @@
 
 ---
 ---
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Focus](https://img.shields.io/badge/Focus-Termux-blue)
-![Learning](https://img.shields.io/badge/Learning-Development-orange)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarryL0L&show_icons=true&theme=dark" />
 ---
 
 ## 👀 Profile Views
