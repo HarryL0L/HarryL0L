@@ -9,6 +9,11 @@
 </p>
 
 ---
+---
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Termux-blue)
+![Learning](https://img.shields.io/badge/Learning-Development-orange)
+---
 
 ## 👀 Profile Views
 
