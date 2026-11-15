@@ -5,5 +5,9 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/HarryL0L/HarryL0L/output/snake-dark.svg" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarryL0L&color=blue" />
 </p>
