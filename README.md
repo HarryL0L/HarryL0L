@@ -8,13 +8,6 @@
   </a>
 </p>
 
----
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarryL0L&show_icons=true&theme=dark" />
-
----
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarryL0L&color=blue" />
 </p>
